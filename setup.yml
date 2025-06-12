@@ -1,0 +1,7 @@
+ - name: Basic Server Setup
+   hosts: local
+   tasks:
+    - name: Example
+      debug:
+       msg: 'HOOOOOOOOOOOOO'
+
